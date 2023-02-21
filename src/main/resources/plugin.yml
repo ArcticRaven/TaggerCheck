@@ -1,0 +1,11 @@
+name: TaggerCheck
+version: '${project.version}'
+main: dev.arcticgaming.taggercheck.TaggerCheck
+api-version: 1.19
+authors: [ ArcticDev_ ]
+description: A quick plugin to allow players to name NameTags
+commands:
+  tagRename:
+    description: allows the ability to rename tags via command
+  tagsHelp:
+    description: sends a helpful message!
